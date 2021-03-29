@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/aparnayavagal/Parts%20Unlimited/_apis/build/status/PartsUnlimited?branchName=master)](https://dev.azure.com/aparnayavagal/Parts%20Unlimited/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
